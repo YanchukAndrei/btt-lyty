@@ -1,0 +1,5 @@
+BTT Project
+
+${application.title}
+${application.version}
+${application.formatted-version}
